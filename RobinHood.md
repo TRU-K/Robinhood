@@ -9,18 +9,25 @@
 ---
 
 #### Who is RobinHood? What do they do?
-Robinhood is an internet stock trading platform that offers unlimited commission free trading for
+Robinhood is an internet stock trading platform that offers unlimited commission free trading for:
+
 -stocks in US public companies,
+
 -ETFs (exchange traded funds)
+
 -Stock options
+
 -Cryptocurrencies
 
 ---
 
 #### Who are RobinHood's largest competitiors
 -Coinbase
+
 -Binance
+
 -Etoro
+
 -Gemini
 
 ---
