@@ -4,7 +4,7 @@
 
 ---
 
-### Below you will find a case study of the major FinTech company RobinHood.
+### Below you will find a case study of the major FinTech company RobinHood. The RobinHood website can be found [here](https://robinhood.com/us/en/)
 
 ---
 
